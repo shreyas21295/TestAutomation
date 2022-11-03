@@ -1,0 +1,18 @@
+ID,Scenario,Implementation
+1,Verify Title,Implemented
+2,Login Page Sanity Check,Implemented
+3,Successful Login,Implemented
+4,Unsuccessful Login,Implemented
+5,Verify Product Names from Home Page,Implemented
+6,Verify Product Names on Detail Page,Implemented
+7,Successful Logout,Implemented
+8,Verify Back to Products Button,Implemented
+9,Verify Add to Cart Button on Products Page,To be implemented
+10,Verify Add to Cart Button on Product Detail Page,To be implemented
+11,Verify Continue Shopping Button,To be implemented
+12,Verify Products on Checkout Page,To be implemented
+13,Verify Checkout Button Functionality,To be implemented
+14,Verify Remove Functionality on Cart Page,To be implemented
+15,Verify Checkout Overview Page Finish Button Functionality,To be implemented
+16,Verify Successful Order,To be implemented
+17,Verify Back Home Button on Successful Order,To be implemented
