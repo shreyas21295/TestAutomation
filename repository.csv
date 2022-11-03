@@ -11,3 +11,6 @@
 "inventory_item_name","inventory_item_name"
 "back_to_products","back-to-products"
 "product_detail_text","inventory_details_desc_container"
+"hamburger_menu_open","react-burger-menu-btn"
+"hamburger_menu_close","react-burger-cross-btn"
+"logout_button","logout_sidebar_link"
