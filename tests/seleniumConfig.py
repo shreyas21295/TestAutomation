@@ -15,7 +15,7 @@ def sel_init():
 
 def get_obj_repository():
     obj_rep = {}
-    with open("../repository.csv") as rep:
+    with open("./repository.csv") as rep:
         for line in csv.reader(rep):
             if "object" not in line[0]:
                 obj_rep[line[0]] = line[1]
